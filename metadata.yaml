@@ -1,0 +1,31 @@
+_repo: Bruce_2391
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Terhune, Albert Payson
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '891'
+    url: http://www.gutenberg.org/2009/agents/891
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Payson_Terhune
+description: As a respected dog breeder whose famed collie line is still winning awards
+  today, Albert Payson Terhune knew the value of a perfect canine specimen whose attributes
+  were sure to win plaudits at the top shows. But as a tenderhearted dog lover, Terhune
+  recognized that all pups--not just the pretty ones--offer something of value to
+  their owners. This fantastically action-packed novel centers on Bruce, a collie
+  that wasn't blue-ribbon material, but whose loyalty and bravery mattered more.
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Bruce
+url: http://www.gutenberg.org/ebooks/2391
