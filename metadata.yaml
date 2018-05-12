@@ -1,5 +1,8 @@
 _repo: Bruce_2391
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Terhune, Albert Payson
@@ -14,6 +17,8 @@ description: As a respected dog breeder whose famed collie line is still winning
   recognized that all pups--not just the pretty ones--offer something of value to
   their owners. This fantastically action-packed novel centers on Bruce, a collie
   that wasn't blue-ribbon material, but whose loyalty and bravery mattered more.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2391#Bruce
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2000-11-01'
 gutenberg_type: Text
